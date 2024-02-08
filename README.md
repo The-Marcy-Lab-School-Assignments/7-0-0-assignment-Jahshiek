@@ -1,8 +1,12 @@
 # Multilingual Lab
 
-You will be building out the project shown below. You should divide your UI into the appropriate components and should utilize state and the `useState` hook. 
+## Short Responses
 
-## Demo of App
+Do them first!
+
+## App Overview
+
+In this assignment, you will be building out the project shown below. You should divide your UI into the appropriate components and should utilize state and the `useState` hook. 
 
 ![demo](./demo.gif)
 
