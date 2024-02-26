@@ -10,7 +10,9 @@ In this assignment, you will be building out the project shown below. You should
 
 ![demo](./demo.gif)
 
-## Tech Requirements
+## Tech Checklist
+
+Starting in this unit, we will be using a different form of grading. Rather than running automated tests, we will be testing your application as a user would. We'll run your application and see what features your app can do. Your score will be determined based on the number of completed requirements listed below.
 
 - [ ] Your app should render as a greeting (perhaps, "Good Morning") in English. 
 - [ ] Beneath this greeting, there should be five buttons. 
