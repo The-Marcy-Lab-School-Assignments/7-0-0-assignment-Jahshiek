@@ -38,15 +38,12 @@ Your goal is to meet at least 75% of these requirements to complete the assignme
 - [ ] Props are extracted in child components using destructuring
 - [ ] `useState` is used to manage state
 
-**Organization + Code Style**
-- [ ] Your greeting should be its own component. In addition, each set of buttons should be their own component.
-- [ ] Bonus: Have all components in their own files (1 export per file)
-
 **Miscellaneous**
 - [ ] Used Vite to create the project
+- [ ] Your greeting should be its own component. In addition, each set of buttons should be their own component.
+- [ ] Bonus: Have all components in their own files (1 export per file)
 - [ ] At no point did you ever use any vanilla DOM JS methods (e.g. `document.querySelector` or `document.createElement`)
 - [ ] Bonus: Your project has some extra CSS styling!
-
 
 ## Set Up
 It's highly recommended you use the scaffolding tool [Vite](https://vitejs.dev/guide/) to create your starter code. You can run these commands to get started:
