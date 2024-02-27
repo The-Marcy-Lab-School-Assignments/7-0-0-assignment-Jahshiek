@@ -21,6 +21,8 @@ Do them first!
 
 Starting in this unit, we will be using a different form of grading. Rather than running automated tests, we will be testing your application as a user would. We'll run your application and see what features your app can do. Your score will be determined based on the number of completed requirements listed below.
 
+Your goal is to meet at least 75% of these requirements to complete the assignment. But don't stop there! Shoot for 100%!
+
 - [ ] Your app should render as a greeting (perhaps, "Good Morning") in English. 
 - [ ] Beneath this greeting, there should be five buttons. 
 - [ ] Each button should correspond to a different language (perhaps, "Spanish", "Haitian Creole", and "Portuguese"). 
