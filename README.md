@@ -21,18 +21,32 @@ Do them first!
 
 Starting in this unit, we will be using a different form of grading. Rather than running automated tests, we will be testing your application as a user would. We'll run your application and see what features your app can do. Your score will be determined based on the number of completed requirements listed below.
 
-Your goal is to meet at least 75% of these requirements to complete the assignment. But don't stop there! Shoot for 100%!
+There are 12 tasks to complete and 2 bonuses.
 
+Your goal is to meet at least 75% of these requirements to complete the assignment. But don't stop there! Shoot for 100%! 
+
+**Functionality:**
 - [ ] Your app should render as a greeting (perhaps, "Good Morning") in English. 
 - [ ] Beneath this greeting, there should be five buttons. 
 - [ ] Each button should correspond to a different language (perhaps, "Spanish", "Haitian Creole", and "Portuguese"). 
 - [ ] When a language button is clicked, the greeting above should be translated to the appropriate language.
 - [ ] Above your greeting, there should be two buttons to change the font size.
 - [ ] When the buttons are clicked, the greeting size should grow or shrink accordingly. 
-- [ ] Your greeting should be its own component. In addition, each set of buttons should be their own component.
+
+**React Fundamentals**
 - [ ] Component names use PascalCase (`MyComponent` instead of `myComponent`)
-- [ ] `useState` is used to manage state
 - [ ] Props are extracted in child components using destructuring
+- [ ] `useState` is used to manage state
+
+**Organization + Code Style**
+- [ ] Your greeting should be its own component. In addition, each set of buttons should be their own component.
+- [ ] Bonus: Have all components in their own files (1 export per file)
+
+**Miscellaneous**
+- [ ] Used Vite to create the project
+- [ ] At no point did you ever use any vanilla DOM JS methods (e.g. `document.querySelector` or `document.createElement`)
+- [ ] Bonus: Your project has some extra CSS styling!
+
 
 ## Set Up
 It's highly recommended you use the scaffolding tool [Vite](https://vitejs.dev/guide/) to create your starter code. You can run these commands to get started:
