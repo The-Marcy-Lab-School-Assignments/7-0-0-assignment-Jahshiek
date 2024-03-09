@@ -42,7 +42,7 @@ Your goal is to meet at least 75% of these requirements to complete the assignme
 - [ ] Used Vite to create the project
 - [ ] The size buttons, the greeting, and the language buttons should each be their own component for a total of 3 components (on top of the root `App`)
 - [ ] At no point did you ever use any vanilla DOM JS methods (e.g. `document.querySelector` or `document.createElement`)
-- [ ] Bonus: Have all components in their own files (1 export per file)
+- [ ] Bonus: You have a `components` directory. Each component has its own file and is exported (1 export per file). The filename matches the name of the component being exported (`Header.jsx` exports a `Header` component).
 - [ ] Bonus: Your project has some extra CSS styling!
 
 ## Set Up
